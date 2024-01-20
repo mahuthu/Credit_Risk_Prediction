@@ -1,0 +1,1 @@
+"# A credit scoring model is a mathematical model used to estimate the probability of default, which is the probability that customers may trigger a credit event e.g., bankruptcy, obligation default, failure to pay, and cross-default events
